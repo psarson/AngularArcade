@@ -12,3 +12,9 @@ ASP-ANGULAR/
 
     $ npm start -> start the client application  
 
+
+Tutorial's I Used:  
+
+https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa 
+
+https://docs.microsoft.com/en-us/aspnet/core/spa/angular?tabs=visual-studio 
